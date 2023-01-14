@@ -1,0 +1,16 @@
+# CONFIGURATION
+
+# Put "true" for disable the mob spawning
+disable-zombie: false
+disable-creeper: false
+disable-chicken: false
+disalbe-horse: false
+disable-parrot: false
+disable-spider: false
+disable-skeleton: false
+disalbe-blaze: false
+disable-ghast: false
+disable-slime: false
+disable-enderman: false
+disable-pig: false
+disable-cow: false

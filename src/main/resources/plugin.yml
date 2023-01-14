@@ -1,0 +1,4 @@
+name: NoMobSpawn
+version: '${project.version}'
+main: missingdrift.nomobspawn.NoMobSpawn
+authors: [ MissingDrift ]
